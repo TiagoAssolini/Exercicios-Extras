@@ -1,0 +1,11 @@
+# 1. Crie uma docstring para a função exibir_nome_do_programa()
+'''Exibe o nome do Programa'''
+# 2. Crie uma docstring para a função exibir_opcoes()
+# 3. Crie uma docstring para a função finalizar_app()
+# 4. Crie uma docstring para a função opcao_invalida()
+# 5. Crie uma docstring para a função exibir_subtitulo(texto)
+# 6. Crie uma docstring para a função cadastrar_novo_restaurante()
+# 7. Crie uma docstring para a função listar_restaurantes()
+# 8. Crie uma docstring para a função alternar_estado_restaurante()
+# 9. Crie uma docstring para a função escolher_opcao()
+#10. Crie uma docstring para a função main()
